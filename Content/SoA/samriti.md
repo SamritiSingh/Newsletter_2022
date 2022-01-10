@@ -1,7 +1,7 @@
 
 | Photo                            | ![Display picture](Images/ss.JPG)                                                                           |
 |:---------------------------------|:------------------------------------------------------------------------------------------------------------|
-| Name                             | Samriti Singh                                                                                                |
+| Name                             | Ar. Samriti Singh                                                                                                |
 | Date of Birth                    | 21/11/1994                                                                                                  |
 | Designation                      | Assistant Professor                                                                                         |
 | Email                            | smritisingh21.arch@gmail.com                                                                                    |
