@@ -1,13 +1,23 @@
-# GNDEC_School of Architecture_NewsLetter
+# School of Architecture **NEWS**
 
 <p align=justify>
 The School of Architecture, GNDEC announces an annual newsletter. Newsletter intent is to communicate the larger idea - 'Work done by students and faculty at SoA, Guru Nanak Dev Engineering college'. Hope you enjoy reading this!!
 </p>
 
+## Message from HoD’s Desk
+<p align=justify>
+Welcome to the annual online newsletter. We are very enthusiastic to share with you a summary of our news and events as well as articles which will give you a greater insight into our departments and our approaches to teaching and learning. It is strongly believed in SoA that every student should be focused and motivated to succeed. The thrust lies in building personalities and careers with a realistic road map that guides every student towards a successful professional career. There is a strong focus on experiential learning with the help of latest tools and techniques using case studies, field visits, projects, classroom exercises etc.
+
+THE MANDATE FOR THE STUDENTS IS TO SET THE TONE FOR A FUTURE HUMANISTIC ARCHITECT - ONE WHO DESIGNS JOYFULLY.
+</p>
+
+**Prof. Ar. Akanksha Sharma**
+(**HoD, School of Architecture**)
+
+## **LETS GET STARTED!**
+
 ## Online expert lecture - Design Thinking on 11th January, 2021
-
 ![HSR](Images/1.jpeg)
-
 <p align=justify>
 Speaker – Ar. Rahul Saini, Architect & Author
 GNDEC School of Architecture, Ludhiana organized a thought-provoking online lecture on the topic Design Thinking. The event provided faculty and students, a space for learning and strengthening the virtual engagement towards the topic.
@@ -100,7 +110,7 @@ Celebrated archi dependence , by documenting a few public/institutional / office
 ![HSR](Images/15.jpeg)
 
 ## Eco-Resort Site Visit on 9th September, 2021
-![HSR](Images/16.jpeg)
+![HSR](Images/16.jpeg
 
 ## Hands-on Workshop on Architectural Photography on 15th September, 2021
 ![HSR](Images/17.jpeg)  
@@ -119,7 +129,7 @@ GNDEC School of Architecture, Ludhiana marked World Architecture Day and UN Worl
 ![HSR](Images/19.jpeg)
 
 ## Online webinar on Reminiscing the Journey, Charles-Edouard Jeanneret on 6th October, 2021
-![HSR](Images/20.jpg)  
+![HSR](Images/20.jpg)
 <p align=justify>
 Speaker - Prof Supriya Kukreja
 GNDEC School of Architecture, Ludhiana celebrated 134th birth anniversary of Le Corbusier by organizing an online expert lecture on 6th October, 2021. Expert  from Ahmedabad, Ar.Supriya Kukreja, Associate Professor-Nirma University & Visiting Professor-CEPT university was the resource person of the day.  Prof Supriya Kukreja Spoke about the importance of reading, travelling and sketching in the making of an architect from his early days of education. She added that Corbusier’s life is an inspiration to challenge your own self and trying to get better each day. Ar.Akanksha Sharma, Head- GNDEC School of Architecture stayed determined  from conception of idea, to development of the substance till the completion of the event. Her firm efforts and hard work contributed to this successful online event. Dr.Sehijpal Singh, Principal - GNDEC congratulated School of Architecture and prestigious guest for collaborating on this day. He encouraged the Students and faculty to follow the professional footsteps of Master Architects like Le Corbusier.
@@ -155,7 +165,7 @@ GNDEC School of Architecture conducted awareness program on Elimination of viole
 ![HSR](Images/28.jfif)
 
 
-# AESTHETIC CORNER – School of Architecture
+# **AESTHETIC CORNER – SoA**
 
 ## Ar. Gazal Soni, Architect and Artist
 ![HSR](Images/29.jfif)  
@@ -170,12 +180,12 @@ Gungeet Kaur, undergraduate student from School of Architecture GNDEC has captur
 </p>
 
 ## Jaismeen Kaur, Sports Woman
-![HSR](Images/31.jfif)  
+![HSR](Images/31.JFIF)  
 <p align=justify>
 Shield and cash prize was awarded to Jaismeen Kaur, Student of School of Architecture as PTU best cyclist as she participated in all India Interversity Cycling Championships.
 </p>
 
-# Khushpreet, Cake Maker
+## Khushpreet, Cake Maker
 ![HSR](Images/32.jfif)  
 <p align=justify>
 Student of School of Architecture, Khushpreet Kaur is skilled in handcrafting edible flowers and petals that are incredibly lifelike. Along with learning architecture, she is expertise in the ombré effect of the tiered masterpiece cakes.
